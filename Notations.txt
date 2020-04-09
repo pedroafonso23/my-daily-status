@@ -1,0 +1,11 @@
+NextJS: created by Zeit
+
+Main features:
+
+- SSR: server-side rendering (renderiza no server e manda pro browser)   ----->>> Vamos utilizar essas funcionalidade do Next
+- APIs: prover fonte dados      ----->>>
+
+- Static apps: react normais
+- Staticaly generated websites: gatsby
+
+# Quando usando o Next, nao precisa importar react (import React from 'react')
