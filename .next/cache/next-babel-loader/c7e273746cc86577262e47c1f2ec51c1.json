@@ -1,0 +1,1 @@
+{"ast":null,"code":"import auth0 from '../../';","map":{"version":3,"sources":["C:/PROJETOS/my-daily-status/pages/api/callback.js"],"names":["auth0"],"mappings":"AAAA,OAAOA,KAAP,MAAkB,QAAlB","sourcesContent":["import auth0 from '../../'"]},"metadata":{},"sourceType":"module"}

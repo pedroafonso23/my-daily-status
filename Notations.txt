@@ -9,3 +9,18 @@ Main features:
 - Staticaly generated websites: gatsby
 
 # Quando usando o Next, nao precisa importar react (import React from 'react')
+
+-> react-dom eh convertido para o DOM real no browser.
+Quando fazermos AQUELA APP (create-react-app) tudo roda no navegador
+
+Next:
+
+Server-side-rendering: servidor
+-> react-dom >> html completo >> dom real
+
+Client-side-rendering: servir arquivos estaticos
+-> react-dom >> dom real
+
+API: servidor
+Geracao de sites estaticos: arquivos estaticos
+
